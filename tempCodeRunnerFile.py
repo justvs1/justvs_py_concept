@@ -1,0 +1,1 @@
+for i in range(len(nam1list)):
